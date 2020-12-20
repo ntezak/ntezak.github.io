@@ -7,7 +7,7 @@ I am a researcher and engineer interested in novel paradigms for information pro
 
 Originally born and raised in [Leverkusen, Germany](https://en.wikipedia.org/wiki/Leverkusen), I went to university in [Heidelberg](https://en.wikipedia.org/wiki/Heidelberg) and afterwards moved to California where I obtained a PhD in Applied Physics from [Stanford University](https://www.stanford.edu/).
 
-![This is me](/assets/camping.jpeg)
+![This is me](/assets/camping.png)
 
 I currently live in Oakland with my wife, kid and two cats.
 
