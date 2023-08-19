@@ -1,7 +1,7 @@
 @def title = "Nikolas Tezak"
 @def tags = ["personal", "bio"]
 
-# Nikolas Tezak
+# Nik Tezak
 
 I am a researcher and engineer interested in novel paradigms for information processing and building and operating large scale distributed systems.
 
@@ -16,7 +16,7 @@ I currently live in Boulder, CO with my wife, kids and two cats.
 
 ## Professional Interests
 
-At [OpenAI](https://openai.com), I have worked on a range of different projects and problems: Deep RL for robotics, helping build the first version of our [API](https://openai.com/blog/openai-api) inference stack, and creating our current LLM training stack as well as training of the original [GPT-3.5](https://platform.openai.com/docs/models/gpt-3-5) and [GPT-4](https://openai.com/research/gpt-4).
+At [OpenAI](https://openai.com), I have worked on a range of different projects and problems: [Deep RL for robotics](https://openai.com/research/solving-rubiks-cube), helping build the first version of our [API](https://openai.com/blog/openai-api) inference stack, and creating our current LLM training stack as well as training of the original [GPT-3.5](https://platform.openai.com/docs/models/gpt-3-5) and [GPT-4](https://openai.com/research/gpt-4).
 
 At [Rigetti Computing](https://rigetti.com) I worked on the full stack (hardware and software) for developing, characterizing, and operating quantum computers.
 
