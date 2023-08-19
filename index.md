@@ -3,24 +3,24 @@
 
 # Nikolas Tezak
 
-I am a researcher and engineer interested in novel paradigms for information processing. 
+I am a researcher and engineer interested in novel paradigms for information processing and building and operating large scale distributed systems.
 
-Originally born and raised in [Leverkusen, Germany](https://en.wikipedia.org/wiki/Leverkusen), I went to university in [Heidelberg](https://en.wikipedia.org/wiki/Heidelberg) and afterwards moved to California where I obtained a PhD in Applied Physics from [Stanford University](https://www.stanford.edu/).
+Originally born Germany, I attended [Heidelberg University](https://www.heidelberg.edu/) and afterwards obtained a PhD in Applied Physics from [Stanford University](https://www.stanford.edu/).
 
 ![This is me](/assets/camping.png)
 
-I currently live in Oakland with my wife, kid and two cats.
+I currently live in Boulder, CO with my wife, kids and two cats.
 
 <!-- \tableofcontents  you can use \toc as well -->
 
 
 ## Professional Interests
 
+At [OpenAI](https://openai.com), I have worked on a range of different projects and problems: Deep RL for robotics, helping build the first version of our [API](https://openai.com/blog/openai-api) inference stack, and creating our current LLM training stack as well as training of the original [GPT-3.5](https://platform.openai.com/docs/models/gpt-3-5) and [GPT-4](https://openai.com/research/gpt-4).
+
+At [Rigetti Computing](https://rigetti.com) I worked on the full stack (hardware and software) for developing, characterizing, and operating quantum computers.
+
 My PhD work at Stanford under [Hideo Mabuchi](https://mabuchilab.org) covered modeling techniques and applications for quantum feedback networks.
-
-At [Rigetti Computing](https://rigetti.com) I worked on the full stack (hardware and software) for developing, operating and programming quantum computers.
-
-Since joining [OpenAI](https://openai.com), I have picked up Deep (Reinforcement) Learning for the purpose of developing safe, general purpose artificial intelligence.
 
 ## More Information
 You can find my publication list on 
