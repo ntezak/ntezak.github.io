@@ -5,7 +5,7 @@
 
 I am a researcher and engineer interested in novel paradigms for information processing and building and operating large scale distributed systems.
 
-Originally born in Germany, I studied Physics at [Heidelberg University](https://www.heidelberg.edu/) and afterwards obtained a PhD in Applied Physics from [Stanford University](https://www.stanford.edu/).
+Originally born in Germany, I studied Physics at [Heidelberg University](https://www.uni-heidelberg.de/en) and afterwards obtained a PhD in Applied Physics from [Stanford University](https://www.stanford.edu/).
 
 ![This is me](/assets/camping.png)
 
